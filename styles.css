@@ -1,0 +1,44 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+.web_title {
+    text-align:right;
+}
+
+.car_image {
+    display: flex;
+    justify-content: center;
+    margin-right: auto;
+}
+
+.container{
+    display: flex;
+}
+
+.jumbotron {
+    padding: 50px;
+    margin: 5px;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+.home_title {
+    margin-bottom: -20px;
+}
+
+.card {
+    border: 5px;
+}
+
+.border {
+    border: 1px solid black;
+}
+
+li {
+    font-size:20px
+}
